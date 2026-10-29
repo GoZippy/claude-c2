@@ -11,6 +11,6 @@
     "start": "node agent.js"
   },
   "dependencies": {
-    "ws": "^8.18.3"
+    "ws": "^8.21.0"
   }
 }
